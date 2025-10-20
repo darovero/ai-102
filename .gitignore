@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Environment files
+.env
+*.env
+
+# Build and runtime artifacts
+__pycache__/
+*.pyc
+*.class
+*.exe
+*.out
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Presentation backups
+*.pptx~
+*.pdf~
