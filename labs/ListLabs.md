@@ -49,3 +49,7 @@ Learn how to apply content filters that mitigate potentially offensive or harmfu
 ## 📊 Lab 08 – Evaluate Generative AI Model Performance
 
 Learn how to evaluate models and prompts to optimize the performance of your chat app and its ability to respond appropriately.
+
+## Note:
+These labs were taken from the following URL:
+https://microsoftlearning.github.io/mslearn-ai-studio/
